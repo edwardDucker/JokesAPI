@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "r57Y374Tf0iz1UN2g2c2NCdiNTcis0cTMTeEDU12tcFP95oZyy+xLuRu400EiBzzpoN4rfAqnNNYD00TaQJxgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edwar\\Source\\Repos\\edwardDucker\\JokesAPI\\JokeAPI\\JokeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edwar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\edwar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\edwar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\edwar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\edwar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\edwar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\edwar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
